@@ -1,2 +1,2 @@
-# COMP229.004.06022
- Assignment2
+# COMP229.004.M2022
+ COMP229.004 - Class Examples
